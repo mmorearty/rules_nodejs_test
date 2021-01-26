@@ -1,0 +1,5 @@
+bazel-out
+dist/
+out/
+node_modules/
+tsconfig.tsbuildinfo
